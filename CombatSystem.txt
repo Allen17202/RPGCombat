@@ -1,0 +1,14 @@
+Goals: Simulate a lies of P combat system
+Simulate attack mechanics(basic, heavy, jumping, in air, charged, special ability), stamina costs, different weapon types(sword, hammer, dual blades)
+Parrying/Staggering system for player and enemies
+Enemy AI that has capabilities to stagger/parry as well as have different attack animations, using player attack animations
+Special Ability system similar to the arm abilities in Lies of P, some form of a magic based system, get the vfx from epic game store
+	: coating weapons with elemental magic, fire/water for now
+	: grapple hook to enemies 
+	: Flamethrower hands boiiii
+
+
+Nice To Have
+Audio
+Explore movement mechanics, such as climbing ladders, walls, or rope
+

@@ -1,2 +1,32 @@
 # RPGCombat
- 
+
+
+<a name="Gregory Allen"></a>
+![date](https://img.shields.io/badge/Build%20Date-05.02.24-informational)
+<a name="about"></a>
+## About 
+
+Souls-Like Combat System mimicing the gameplay mechanics seen in games such as Elden Ring and Lies of P
+
+<a name="list-of-features"></a>
+## List of Features
+[active]:https://img.shields.io/badge/-Active-success
+[depreciated]:https://img.shields.io/badge/-Depreciated-inactive
+[updating]:https://img.shields.io/badge/-Updating-purple
+[passing]:https://img.shields.io/badge/-Passing-success
+[outdated]:https://img.shields.io/badge/-Outdated-blue
+[dev]:https://img.shields.io/badge/-Unreleased-important
+
+[version-1.0.0]:https://img.shields.io/badge/Ver.-1.0.0-ff69b4
+[version-1.0.1]:https://img.shields.io/badge/Ver.-1.0.1-ff69b4
+[version-1.0.2]:https://img.shields.io/badge/Ver.-1.0.2-ff69b4
+[version-1.0.3]:https://img.shields.io/badge/Ver.-1.0.3-ff69b4
+[version-1.0.4]:https://img.shields.io/badge/Ver.-1.0.4-ff69b4
+[version-1.0.5]:https://img.shields.io/badge/Ver.-1.0.5-ff69b4
+[version-dev]:https://img.shields.io/badge/Ver.-dev-important
+
+|**Name**|**Description**|**Version**|**Tests**|**Status**|
+|:------:|:-------------:|:---------:|:-------:|:--------:|
+|[Vector2D](/Mathex/Mathex/src/Vectors/Vector2D.h)|A 2D vector representation, with overloaded operations, including stream operands [here](/Mathex/Mathex/src/Vectors/Streams/V2Stream.h).|![active][version-1.0.0]|![passing][passing]|![Active][active]|
+|[Vector3D](/Mathex/Mathex/src/Vectors/Vector3D.h)|A 3D vector representation, with overloaded operations, including stream operands [here](/Mathex/Mathex/src/Vectors/Streams/V3Stream.h).|![active][version-1.0.0]|![updating][updating]|![Active][active]|
+|[Vector4D](/Mathex/Mathex/src/Vectors/Vector4D.h)|A 4D vector representation, with overloaded operations, including stream operands [here](/Mathex/Mathex/src/Vectors/Streams/V4Stream.h).|![active][version-1.0.0]|![updating][updating]|![Active][active]|
