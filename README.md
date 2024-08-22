@@ -7,11 +7,11 @@
 Currently engineering the logic and implementing a third-person combat system inspired by the "Souls-like" genre inspired by games such as Lies of P, simulating the game's combat dynamics. I am actively working towards creating a seamless integration of the combat system, emphasizing fluidity and responsiveness in player actions, as well as modularity in player interactions, attacks, and reactions. I utilize blueprints within Unreal Engine to code and optimize the combat mechanics, focusing on precise hitboxes, enemy AI behaviors, and player attack feedback. Additionally, I created comments detailing the intricacies of the Souls-like combat system, facilitating ease of understanding.
 
 ## Plans for the future
-Update code base to Unreal 5.3
-Convert mechanics into Unreal C++
-Utilize Unreals GAS 
-Implement Multiplayer behavior
-Add Movement abilities
+- Update code base to Unreal 5.3 
+- Convert mechanics into Unreal C++
+- Utilize Unreals GAS 
+- Implement Multiplayer behavior
+- Add Movement abilities
 
 <a name="list-of-features"></a>
 ## List of Mechanics Implemented
