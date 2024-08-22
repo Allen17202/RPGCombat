@@ -4,8 +4,14 @@
 ![date](https://img.shields.io/badge/Build%20Date-05.02.24-informational)
 <a name="about"></a>
 ## About 
-Currently engineering the logic and implementing a third-person combat system inspired by the "Souls-like" genre inspired by games such as Lies of P, simulating the game's combat dynamics. I am actively working towards creating a seamless integration of the combat system, emphasizing fluidity and responsiveness in player actions, as well as modularity in player interactions, attacks, and reactions. I utilize C++ and Unreal Engine to code and optimize the combat mechanics, focusing on precise hitboxes, enemy AI behaviors, and player attack feedback. Additionally, I created comments detailing the intricacies of the Souls-like combat system, facilitating ease of understanding.
+Currently engineering the logic and implementing a third-person combat system inspired by the "Souls-like" genre inspired by games such as Lies of P, simulating the game's combat dynamics. I am actively working towards creating a seamless integration of the combat system, emphasizing fluidity and responsiveness in player actions, as well as modularity in player interactions, attacks, and reactions. I utilize blueprints within Unreal Engine to code and optimize the combat mechanics, focusing on precise hitboxes, enemy AI behaviors, and player attack feedback. Additionally, I created comments detailing the intricacies of the Souls-like combat system, facilitating ease of understanding.
 
+## Plans for the future
+Update code base to Unreal 5.3
+Convert mechanics into Unreal C++
+Utilize Unreals GAS 
+Implement Multiplayer behavior
+Add Movement abilities
 
 <a name="list-of-features"></a>
 ## List of Mechanics Implemented
@@ -32,7 +38,7 @@ Currently engineering the logic and implementing a third-person combat system in
 |**Combat Actor Component**| Actor Component to oversee the entire combat system. Encapulates entering and exiting combat and the various other combatfunctionalities.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Attack Combinations**| Blending of attack combinations and various delays based on the start and end of the attack sequence. Depending on user input whether to continue or reset the attack combo|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Hit Detection System**|On receiving damage from player and enemies, both health and animation systems will act accordingly.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
-|**Hit Reaction System**|Once hit, player animation at that location will play.|![active][version-1.0.0]|![dev][dev]|![dev][dev]|
+|**Hit Reaction System**|Once hit, player animation at that location will play.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Movement Mechanics**|Stamina system, Directional Dodge, and jumpink mechanis implementation.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Character State Manager**|Monitors character state for combat, life, and death and saves the appropriate data.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Targeting/Lock-On System**|Combat system to target and lock on to enemy characters.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
