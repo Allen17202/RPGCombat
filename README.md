@@ -39,7 +39,7 @@ Currently engineering the logic and implementing a third-person combat system in
 |**Attack Combinations**| Blending of attack combinations and various delays based on the start and end of the attack sequence. Depending on user input whether to continue or reset the attack combo|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Hit Detection System**|On receiving damage from player and enemies, both health and animation systems will act accordingly.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Hit Reaction System**|Once hit, player animation at that location will play.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
-|**Movement Mechanics**|Stamina system, Directional Dodge, and jumpink mechanis implementation.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
+|**Movement Mechanics**|Stamina system, Directional Dodge, and jumping mechanics implementation.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Character State Manager**|Monitors character state for combat, life, and death and saves the appropriate data.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Targeting/Lock-On System**|Combat system to target and lock on to enemy characters.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
 |**Entering/Exiting Combat**| Combat system to change state from entering exiting combat, calling reset combat system appropriately and playing attack animations.|![active][version-1.0.0]|![passing][passing]|![Active][active]|
